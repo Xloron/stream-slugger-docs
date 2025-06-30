@@ -11,10 +11,10 @@ const config = {
     v4: true,
   },
 
-  url: 'https://your-github-username.github.io',
+  url: 'https://xloron.github.io',
   baseUrl: '/stream-slugger-docs/',
 
-  organizationName: 'your-github-username', // jouw GitHub gebruikersnaam
+  organizationName: 'xloron', // jouw GitHub gebruikersnaam
   projectName: 'stream-slugger-docs',       // naam van je repo
 
   onBrokenLinks: 'throw',
@@ -31,11 +31,11 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/your-github-username/stream-slugger-docs/edit/main/',
+          editUrl: 'https://github.com/xloron/stream-slugger-docs/edit/main/',
         },
         blog: {
           showReadingTime: true,
-          editUrl: 'https://github.com/your-github-username/stream-slugger-docs/edit/main/blog/',
+          editUrl: 'https://github.com/xloron/stream-slugger-docs/edit/main/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -61,7 +61,7 @@ const config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/your-github-username/stream-slugger-docs',
+          href: 'https://github.com/xloron/stream-slugger-docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -105,7 +105,7 @@ const config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/your-github-username/stream-slugger-docs',
+              href: 'https://github.com/xloron/stream-slugger-docs',
             },
           ],
         },
