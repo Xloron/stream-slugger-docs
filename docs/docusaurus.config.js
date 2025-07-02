@@ -12,7 +12,7 @@ const config = {
   },
 
   url: 'https://docs.streamslugger.com',
-  baseUrl: '/stream-slugger-docs/',
+  baseUrl: '/',
 
   organizationName: 'xloron', // jouw GitHub gebruikersnaam
   projectName: 'stream-slugger-docs',       // naam van je repo
