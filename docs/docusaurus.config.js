@@ -11,7 +11,7 @@ const config = {
     v4: true,
   },
 
-  url: 'https://xloron.github.io',
+  url: 'https://docs.streamslugger.com',
   baseUrl: '/stream-slugger-docs/',
 
   organizationName: 'xloron', // jouw GitHub gebruikersnaam
