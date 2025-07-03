@@ -10,7 +10,7 @@ sidebar_position: 1
 2. **Launch the game** through your Steam Library.
 
 3. On first launch, you'll be asked to enter:
-   - Your **Twitch Channel Name**
+   - Your **Twitch User Name**
    - A **Chatter Name** (usually your own Twitch username or that of a co-streamer)
 
 Once this is set up, Stream Slugger is ready to go – jump in and start slugging!
