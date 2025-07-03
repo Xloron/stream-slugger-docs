@@ -17,7 +17,7 @@ Create a Markdown file at `docs/hello.md`:
 ```md title="docs/hello.md"
 # Hello
 
-This is my **first Docusaurus document**!
+This is my **first Stream Slugger document**!
 ```
 
 A new document is now available at [http://localhost:3000/docs/hello](http://localhost:3000/docs/hello).
