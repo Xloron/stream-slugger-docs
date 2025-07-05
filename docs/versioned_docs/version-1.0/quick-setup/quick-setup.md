@@ -1,4 +1,5 @@
 ---
+title: Quick Setup
 sidebar_position: 1
 ---
 
