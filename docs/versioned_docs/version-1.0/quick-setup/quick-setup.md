@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Start Up Stream Slugger
 
-1. **Download Stream Slugger** from the [Steam Store](https://store.steampowered.com/).
+1. **Download Stream Slugger** from the [Steam Store](https://store.steampowered.com/app/2218430/Stream_Slugger/).
 
 2. **Launch the game** through your Steam Library.
 
