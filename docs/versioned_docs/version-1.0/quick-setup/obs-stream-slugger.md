@@ -19,41 +19,7 @@ Before proceeding, make sure you have:
 
 - [OBS Studio](https://obsproject.com/) installed (version 29 or higher recommended)
 - A stable internet connection
-- Your Stream Slugger **stream key** or URL
-
----
-
-## ⚙️ Recommended OBS Settings
-
-Here are the optimal settings we suggest for compatibility with Stream Slugger:
-
-### Output
-
-- **Output Mode:** Advanced
-- **Encoder:** x264 (or NVENC if supported)
-- **Bitrate:** 4500 kbps (or higher for 1080p60)
-- **Keyframe Interval:** 2
-- **Preset:** veryfast (or lower if CPU allows)
-
-### Video
-
-- **Base Resolution:** 1920x1080
-- **Output Resolution:** 1920x1080 or 1280x720
-- **FPS:** 30 or 60
-
-### Audio
-
-- **Sample Rate:** 48kHz
-- **Bitrate:** 160kbps or higher for the stream audio track
-
----
-
-## 🔗 Connect OBS to Stream Slugger
-
-1. Go to `Settings > Stream`.
-2. Choose **Custom** as the service.
-3. Enter your Stream Slugger **server URL** and **stream key**.
-4. Click **Start Streaming** when you're ready!
+- Your Stream Slugger application running.
 
 ---
 
