@@ -4,7 +4,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Stream Slugger Docs',
-  tagline: 'Documentation for Stream Slugger',
+  tagline: 'Boost your stream with interactive Twitch overlays.',
   favicon: 'img/favicon.ico',
 
   future: {
