@@ -1,0 +1,16 @@
+{
+  "label": "Quick Setup",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Features in Stream Slugger",
+    "slug": "/Features",
+    "title": "Features",
+    "keywords": [
+      "stream slugger",
+      "features",
+      "quick setup",
+      "obs setup"
+    ]
+  }
+}
