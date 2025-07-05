@@ -6,21 +6,64 @@ sidebar_position: 3
 
 # Chat Settings & Commands
 
-Stream Slugger includes interactive features that allow viewers to engage directly with the stream. These features can be toggled on or off by the streamer for better control over gameplay.
+Stream Slugger allows your viewers to interact directly with your game in real-time through a variety of **chat commands** and **streamer-controlled toggles**.
 
 ---
 
-## 🔧 Toggleable Features
+## ⚙️ Chat Toggles
 
-### 1. **Chat Can Spawn a Boss Character**
-- **Default:** ❌ Disabled
-- **Description:** When enabled, viewers can summon a boss character using a chat command.
-- **Command:** `!boss`
+The following features can be toggled on or off in the Stream Slugger interface.
 
-**Behavior:**
-- Keeps the game under control at the beginning of the stream.
-- Once enabled, chat users can spawn boss enemies up to a defined maximum.
+### 1. Enable Boss Spawning
 
-```txt
-Chat example:
-!boss
+- **Description**: Allows chat to spawn powerful **Boss Characters** in-game.
+- **Command**: `!boss`
+- **Default State**: Disabled
+- **Function**:
+  - Viewers can use `!boss` in chat to spawn a boss.
+  - A limit can be set (e.g., max 2 bosses at once).
+- **Recommended Usage**: Start with this OFF to let the streamer control the pacing of the game.
+
+> ✅ **Pro Tip**: Boss battles are great for big moments in your stream!
+
+---
+
+### 2. Enable Chat Healing
+
+- **Description**: Viewers can support the streamer by spawning **healing balls**.
+- **Command**: `!heal`
+- **Default State**: Disabled
+- **Function**:
+  - Chat can type `!heal` to drop a healing orb the player can collect.
+  - Useful in difficult battles or survival runs.
+- **Recommended Usage**: Toggle ON when you want viewers to help keep you alive.
+
+---
+
+### 3. Character Chat Balloons
+
+- **Description**: Shows a **speech balloon** over in-game characters when chat commands are used.
+- **Default State**: Enabled
+- **Function**:
+  - When enabled, in-game characters will display chat messages above their heads (e.g., for `!boss` or `!heal`).
+- **Note**:  
+  In version **1.1.2**, toggle settings are **not retained** after closing the application. You’ll need to re-enable them on each launch.
+
+> 💬 This feature adds a fun and immersive element by showing chat reactions in real-time.
+
+---
+
+## 📝 Summary Table
+
+| Feature               | Command | Default | Description                                      |
+|-----------------------|---------|---------|--------------------------------------------------|
+| Boss Spawning         | `!boss` | ❌ Off  | Spawns a tough enemy into the game               |
+| Chat Healing          | `!heal` | ❌ Off  | Spawns healing items for the player              |
+| Chat Balloons Display | N/A     | ✅ On   | Displays chat messages above in-game characters  |
+
+---
+
+Streamers can control the chaos (or support!) by toggling these features live. This ensures flexibility for **every stream style**.
+
+Need help or ideas? Join our [Discord Community](https://discord.gg/streamslugger) and see how others are using these features!
+
