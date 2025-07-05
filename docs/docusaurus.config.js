@@ -61,7 +61,7 @@ const config = {
           position: 'left',
           label: 'Docs',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        
         {
           href: 'https://github.com/xloron/stream-slugger-docs',
           label: 'GitHub',
@@ -85,17 +85,14 @@ const config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Twitch',
+              href: 'https://www.twitch.tv/philberex',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/bAnxY2a',
             },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
+            
           ],
         },
         {
