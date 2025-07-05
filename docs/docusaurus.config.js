@@ -98,7 +98,10 @@ const config = {
         {
           title: 'More',
           items: [
-            
+            {
+              label: 'YouTube',
+              href: 'https://www.youtube.com/@philberex',
+            },
           ],
         },
       ],
