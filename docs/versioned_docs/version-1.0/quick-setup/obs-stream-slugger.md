@@ -70,7 +70,7 @@ Want to follow along visually? Watch our setup tutorial below:
 
 ## 🙋 Need Help?
 
-If you run into issues or have questions, reach out on [Discord](https://discord.gg/your-link).
+If you run into issues or have questions, reach out on [Discord](https://discord.gg/bAnxY2a).
 
 ---
 
